@@ -15,10 +15,11 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/generate-a-high-quality--photorealistic-e-commerce.jpg",
+            "image": "shopify://shop_images/generate-a-high-quality--photorealistic-e-commerce_1.jpg",
+            "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
             "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Crafted in Europe with 100% organic cotton",
             "title": "Premium organic",
             "heading_tag": "h1",
