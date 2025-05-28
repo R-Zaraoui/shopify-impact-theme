@@ -98,7 +98,6 @@
         "item_dEWt8y",
         "item_zTjgCh"
       ],
-      "name": "Text with icons",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -116,7 +115,8 @@
       "settings": {
         "collection": "",
         "products": [
-          "niv-organic-mens-polo-shirt"
+          "niv-organic-mens-polo-shirt",
+          "organic-mens-polo-shirt-kopie"
         ],
         "full_width": true,
         "stack_products": false,
