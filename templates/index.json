@@ -17,13 +17,13 @@
           "settings": {
             "image": "shopify://shop_images/generate-a-high-quality--photorealistic-e-commerce_1.jpg",
             "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
-            "content_max_width": 560,
+            "content_max_width": 580,
             "mobile_text_position": "place-self-start-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
-            "subheading": "Sustainable Style Starts Here – Limited Stock!",
-            "title": "Quality Polo's",
+            "subheading": "Crafted in Europe with 100% Organic Cotton – GOTS Certified",
+            "title": "Limited Stock!",
             "heading_tag": "h0",
-            "button_text": "Shop Now",
+            "button_text": "Shop Now – 10% Off Today!",
             "button_link": "shopify://products/niv-organic-mens-polo-shirt",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -41,7 +41,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "auto",
+        "image_size": "fill",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
@@ -63,7 +63,7 @@
             "icon_background": "",
             "icon_color": "#00a341",
             "title": "Eco-Friendly Living",
-            "content": "<p>Made with 100% Organic Cotton – GOTS Certified</p>"
+            "content": "<p>100% Organic Cotton – GOTS Certified</p>"
           }
         },
         "item_dEWt8y": {
@@ -75,8 +75,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#00a341",
-            "title": "Crafted in Europe",
-            "content": "<p>Handcrafted in Amsterdam with Care</p>"
+            "title": "Global Sustainability",
+            "content": "<p>Carbon Neutral Shipping</p>"
           }
         },
         "item_zTjgCh": {
@@ -88,8 +88,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#00a341",
-            "title": "Green Delivery",
-            "content": "<p>Short content about your store</p>"
+            "title": "Quality Craftsmanship",
+            "content": "<p>Handcrafted in Europe</p>"
           }
         }
       },
