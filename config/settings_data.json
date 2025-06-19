@@ -42,7 +42,7 @@
     "blocks": {
       "13851756539466573627": {
         "type": "shopify://apps/gelato-print-on-demand/blocks/product-personalizer/9f8f1130-ec83-4e2f-a417-5e69fb8f6e45",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "hidden-selector": "",
           "in-page-personalization-preview-selector": "",
