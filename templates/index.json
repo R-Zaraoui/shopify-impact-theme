@@ -162,38 +162,44 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Eco-friendly style is coming. Follow us for the reveal!"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Timeless Comfort Ahead",
             "heading_tag": "h1"
           }
         },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
+        "button_dMre6z": {
+          "type": "button",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "style": "fill",
+            "size": "lg",
+            "text": "Buy Now!",
+            "url": "shopify://products/men-s-premium-t-shirt-1",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
         "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "button_dMre6z"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/a-highly-detailed-professional-lifestyle-photo-of.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 37
       }
     },
     "faq": {
