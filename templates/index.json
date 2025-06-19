@@ -179,8 +179,8 @@
             "size": "lg",
             "text": "Buy Now!",
             "url": "shopify://products/men-s-premium-t-shirt-1",
-            "background": "",
-            "text_color": ""
+            "background": "#ffffff",
+            "text_color": "#000000"
           }
         }
       },
@@ -190,12 +190,13 @@
         "button_dMre6z"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/a-highly-detailed-professional-lifestyle-photo-of.jpg",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_image": "shopify://shop_images/a-highly-detailed-professional-lifestyle-photo-of-_1.jpg",
+        "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
