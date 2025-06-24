@@ -113,11 +113,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "niv-organic-mens-polo-shirt",
-          "organic-mens-polo-shirt-kopie"
-        ],
+        "collection": "polo-shirts",
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
