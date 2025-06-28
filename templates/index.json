@@ -135,22 +135,19 @@
         "product_card_text_color": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
+    "slideshow_7KUAcy": {
+      "type": "slideshow",
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "image-with-text-overlay": {
@@ -257,7 +254,7 @@
     "slideshow",
     "text_with_icons_Fxndrk",
     "featured-collection",
-    "impact-text",
+    "slideshow_7KUAcy",
     "image-with-text-overlay",
     "faq"
   ]
