@@ -35,6 +35,7 @@
     "show_page_transition": true,
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",
+    "color_swatch_config": "Black:#000000",
     "show_vendor": false,
     "show_product_rating": false,
     "discount_mode": "saving",
