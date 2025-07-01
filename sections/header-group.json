@@ -37,6 +37,36 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_bQy8Bm": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Shop",
+            "layout": "horizontal_center",
+            "submenu_style": "bold_heading",
+            "image_1": "shopify://shop_images/a-highly-detailed-and-captivating-image--featuring_1.jpg",
+            "image_heading_1": "Polo Shirts",
+            "image_link_1": "shopify://collections/polo-shirts",
+            "image_text_color_1": "#ffffff",
+            "image_2": "shopify://shop_images/a-highly-detailed-professional-lifestyle-photo-of_7e88c0ad-00be-45d8-a68e-31418134ce94.jpg",
+            "image_heading_2": "T-Shirts",
+            "image_link_2": "shopify://collections/t-shirts",
+            "image_text_color_2": "#f0f0f0",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "#f0f0f0",
+            "product_card_text_color": "#803cee",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_bQy8Bm"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
