@@ -259,10 +259,10 @@ the underlying logic of the menu.
           </a>
           
           {%- if shop.customer_accounts_enabled -%}
-            <a href="{{ routes.account_url }}" class="hidden tap-area sm:block">
-              <span class="sr-only">{{ 'header.general.open_account' | t }}</span>
-              {%- render 'icon' with 'account' -%}
-            </a>
+          <a href="https://account.nivstore.eu" class="hidden tap-area sm:block">
+            <span class="sr-only">{{ 'header.general.open_account' | t }}</span>
+            {%- render 'icon' with 'account' -%}
+          </a>
           {%- endif -%}
 
           <a href="{{ routes.cart_url }}" data-no-instant class="relative tap-area" {% if settings.cart_type != 'page' and request.page_type != 'cart' %}aria-controls="cart-drawer"{% endif %}>
