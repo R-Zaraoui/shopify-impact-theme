@@ -11,6 +11,23 @@
   "sections": {
     "main": {
       "type": "main-blog",
+      "blocks": {
+        "newsletter_VfWAKw": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>Write something about what your customers will receive by subscribing to your newsletter.</p>",
+            "button_text": "Subscribe",
+            "subtext": "",
+            "position": 5,
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_VfWAKw"
+      ],
       "settings": {
         "allow_transparent_header": false,
         "content": "<p>Get access to our latest news by signing up for our newsletter.</p>",
@@ -26,7 +43,7 @@
         "feature_article_text_color": "",
         "show_excerpt": true,
         "show_date": true,
-        "show_author": false,
+        "show_author": true,
         "show_comments_count": false,
         "show_category": true
       }
