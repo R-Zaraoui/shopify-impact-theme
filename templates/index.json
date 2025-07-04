@@ -105,7 +105,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#f0f0f0",
+        "background": "#f7f7f7",
         "background_gradient": "",
         "text_color": ""
       }
@@ -204,10 +204,10 @@
         "collection": "t-shirts",
         "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
+        "stack_products": false,
+        "show_progress_bar": true,
         "products_count": 3,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "Our T-Shirts",
