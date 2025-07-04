@@ -84,6 +84,13 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": true,
         "settings": {}
+      },
+      "3492108309373172659": {
+        "type": "shopify://apps/urgency-pack-ultimate/blocks/app-embed/bb68a835-ba8f-4c38-a022-ed42898ea377",
+        "disabled": false,
+        "settings": {
+          "max_visible_quantity": 999999999
+        }
       }
     }
   },
