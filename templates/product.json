@@ -75,16 +75,10 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "button_3rd6XE": {
-          "type": "button",
+        "text_c8ebaM": {
+          "type": "text",
           "settings": {
-            "link": "",
-            "text": "Button",
-            "size": "xl",
-            "style": "fill",
-            "stretch": true,
-            "background": "",
-            "text_color": ""
+            "text": "<p><strong>Only a Few Left!</strong></p>"
           }
         },
         "buy_buttons": {
@@ -118,7 +112,7 @@
         "offer_BTA96F",
         "variant_picker",
         "quantity_selector",
-        "button_3rd6XE",
+        "text_c8ebaM",
         "buy_buttons",
         "judge_me_reviews_review_widget_Der694",
         "judge_me_reviews_preview_badge_kpY3bD"
