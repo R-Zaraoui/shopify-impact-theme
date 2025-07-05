@@ -54,6 +54,17 @@
             "low_inventory_threshold": 13
           }
         },
+        "buy_buttons_iYTWkY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
         "description_HXwhMp": {
           "type": "description",
           "settings": {
@@ -76,6 +87,7 @@
         "variant_picker",
         "quantity_selector",
         "inventory_76VeWc",
+        "buy_buttons_iYTWkY",
         "description_HXwhMp",
         "collapsible_text_WtWkBV"
       ],
