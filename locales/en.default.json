@@ -121,7 +121,7 @@
       "other": "{{ count }} reviews"
     },
     "inventory": {
-      "in_stock": "In stock",
+      "in_stock": "In stock and ready for delivery",
       "oversell_stock": "Re-stocking soon",
       "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
