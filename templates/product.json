@@ -48,6 +48,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "inventory_76VeWc": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 13
+          }
+        },
         "description_HXwhMp": {
           "type": "description",
           "settings": {
@@ -60,12 +66,6 @@
             "title": "SHIPPING INFORMATION",
             "content": "<p><strong>Germany: </strong>3-4 working days (free over €80)<br/><strong>Benelux: </strong>4-5 working days (free over €80)</p>"
           }
-        },
-        "inventory_76VeWc": {
-          "type": "inventory",
-          "settings": {
-            "low_inventory_threshold": 13
-          }
         }
       },
       "block_order": [
@@ -75,9 +75,9 @@
         "separator",
         "variant_picker",
         "quantity_selector",
+        "inventory_76VeWc",
         "description_HXwhMp",
-        "collapsible_text_WtWkBV",
-        "inventory_76VeWc"
+        "collapsible_text_WtWkBV"
       ],
       "settings": {
         "full_width": true,
