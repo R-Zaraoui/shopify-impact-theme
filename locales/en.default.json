@@ -76,7 +76,7 @@
   },
   "product": {
     "general": {
-      "description": "Description",
+      "description": "DESCRIPTION",
       "view_product": "View product",
       "quick_add": "+ Quick add",
       "add_to_cart_short": "+ Add",
