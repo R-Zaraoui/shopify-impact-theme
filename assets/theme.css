@@ -9904,3 +9904,6 @@ split-lines {
 .color-swatch--green {
   background-color: green;
 }
+.price {
+    font-weight: bold !important;
+}
