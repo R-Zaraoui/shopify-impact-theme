@@ -15,12 +15,12 @@
       "type": "newsletter-popup",
       "settings": {
         "apparition_delay": 5,
-        "show_only_on_index": true,
+        "show_only_on_index": false,
         "show_only_for_visitors": true,
         "show_only_once": true,
         "image": "shopify://shop_images/a-highly-detailed-and-captivating-image--featuring.jpg",
-        "title": "Hey There! Join the NIV Style Community",
-        "button_text": "Subscribe",
+        "title": "Hey There! Join the NIV Style Club",
+        "button_text": "SUBSCRIBE",
         "subtext": "Hi there! Join our community for exclusive access to new arrivals, styling tips, and a special welcome gift."
       }
     },
