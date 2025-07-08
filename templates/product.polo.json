@@ -41,7 +41,7 @@
             "stack_blocks": true,
             "selector_mode": "block",
             "color_mode": "variant",
-            "size_chart_page": "t-shirt-size-chart"
+            "size_chart_page": "polo-shirt-size-guide"
           }
         },
         "quantity_selector": {
