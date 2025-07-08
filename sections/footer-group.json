@@ -49,7 +49,7 @@
         "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
-        "show_country_name": true,
+        "show_country_name": false,
         "show_locale_selector": true
       }
     }
