@@ -21,7 +21,7 @@
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Crafted in Europe with 100% Organic Cotton",
-            "title": "Discover Polos",
+            "title": "Organic Polos",
             "heading_tag": "h1",
             "button_text": "Shop Now – 20% Off Today!",
             "button_link": "shopify://products/light-flake-polo",
@@ -156,13 +156,13 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Eco-friendly style is coming. Follow us for the reveal!"
+            "text": "Eco-Friendly T-Shirts for Men"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Timeless Comfort Ahead",
+            "text": "Organic Cotton T-Shirts",
             "heading_tag": "h1"
           }
         },
@@ -171,7 +171,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Buy Now!",
+            "text": "Buy Now with Free Shipping > €80",
             "url": "shopify://products/pure-t-shirt",
             "background": "#ffffff",
             "text_color": "#000000"
