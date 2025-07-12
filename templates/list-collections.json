@@ -13,8 +13,10 @@
       "type": "main-list-collections",
       "settings": {
         "collections": [
-          "polo-shirts",
-          "t-shirts"
+          "wild-base-collection",
+          "wild-moments-capsule",
+          "trail-mark-collection",
+          "nature-s-crest-collection"
         ],
         "collections_per_row": 2,
         "text_color": "#ffffff",
