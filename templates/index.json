@@ -161,29 +161,46 @@
         "overlay_opacity": 48
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "images_with_text_scrolling_fickJV": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_yhANhi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/openart-a-high-resolution-cinematic-shot-of-a-fit-30-year-old-adventurer-with-a-sh.jpg",
+            "icon": "none",
+            "icon_width": 24,
+            "title": "Will You Rise?",
+            "content": ""
+          }
+        },
+        "item_ahcA7L": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/openart-b4b90e041f6246999c4dc0a30225bed5_raw.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Own the Wild",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_yhANhi",
+        "item_ahcA7L"
+      ],
+      "name": "Images and text scrolling",
       "settings": {
-        "collection": "wild-base-collection",
-        "products": [],
         "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Wild Base Collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "#f0f0f0",
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "heading_gradient": ""
       }
     },
     "slideshow_7KUAcy": {
@@ -331,7 +348,7 @@
     "slideshow",
     "text_with_icons_Fxndrk",
     "video_nVh4mt",
-    "featured-collection",
+    "images_with_text_scrolling_fickJV",
     "slideshow_7KUAcy",
     "image-with-text-overlay",
     "featured_collection_DFViUW",
