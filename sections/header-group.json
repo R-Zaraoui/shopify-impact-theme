@@ -42,7 +42,7 @@
           "type": "mega_menu",
           "settings": {
             "menu_item": "Shop",
-            "layout": "horizontal_center",
+            "layout": "horizontal",
             "submenu_style": "bold_heading",
             "image_1": "shopify://shop_images/openart-image_xSz4tq6U_1752420122772_raw.png",
             "image_heading_1": "Wild Base Collection",
@@ -52,14 +52,15 @@
             "image_heading_2": "Nature's Crest Collection",
             "image_link_2": "shopify://collections/nature-s-crest-collection",
             "image_text_color_2": "#f0f0f0",
-            "image_heading_3": "",
-            "image_link_3": "",
+            "image_3": "shopify://shop_images/blendBoard.png",
+            "image_heading_3": "Trail Mark Collection",
+            "image_link_3": "shopify://collections/trail-mark-collection",
             "image_text_color_3": "#ffffff",
             "product": "",
             "product_card_background": "#f0f0f0",
             "product_card_text_color": "#803cee",
             "promo_content_layout": "grid",
-            "stretch_promo": false,
+            "stretch_promo": true,
             "drawer_link_image": "hide"
           }
         }
