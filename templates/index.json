@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#00a341",
-            "title": "Eco-Friendly Living",
+            "title": "Wildly Sustainable",
             "content": "<p>100% Organic Cotton – GOTS Certified</p>"
           }
         },
@@ -75,20 +75,20 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#00a341",
-            "title": "Global Sustainability",
+            "title": "Carbon-Free Trails",
             "content": "<p>Carbon Neutral Shipping</p>"
           }
         },
         "item_zTjgCh": {
           "type": "item",
           "settings": {
-            "icon": "picto-box",
+            "icon": "picto-like",
             "mobile_icon_width": 24,
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#00a341",
-            "title": "Quality Craftsmanship",
+            "title": "Crafted by Wild Hands in Europe",
             "content": "<p>Handcrafted in Europe</p>"
           }
         }
