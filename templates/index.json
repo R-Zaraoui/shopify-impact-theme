@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 24,
+            "overlay_opacity": 31,
             "background": "",
             "background_gradient": ""
           }
@@ -110,10 +110,41 @@
         "text_color": ""
       }
     },
+    "video_nVh4mt": {
+      "type": "video",
+      "blocks": {
+        "play_AyLK9E": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_HtVytV": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_AyLK9E",
+        "heading_HtVytV"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "md",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "polo-shirts",
+        "collection": "wild-base-collection",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -122,7 +153,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Our Polo's",
+        "title": "Wild Base Collection",
         "content": "",
         "link_url": "",
         "link_text": "View all",
@@ -279,6 +310,7 @@
   "order": [
     "slideshow",
     "text_with_icons_Fxndrk",
+    "video_nVh4mt",
     "featured-collection",
     "slideshow_7KUAcy",
     "image-with-text-overlay",
