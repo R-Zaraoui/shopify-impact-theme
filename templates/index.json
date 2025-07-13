@@ -196,9 +196,9 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#d3c9c0",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#4a4a4a",
         "heading_color": "",
         "heading_gradient": ""
       }
