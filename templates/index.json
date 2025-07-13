@@ -120,14 +120,33 @@
         "heading_HtVytV": {
           "type": "heading",
           "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
+            "text": "Trail Mark Collection",
+            "heading_tag": "h2"
+          }
+        },
+        "subheading_87xmiz": {
+          "type": "subheading",
+          "settings": {
+            "text": "100% Organic Cotton for Every Adventure"
+          }
+        },
+        "button_zmeLtz": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Buy Now",
+            "url": "shopify://collections/trail-mark-collection",
+            "background": "#ffffff",
+            "text_color": "#1a1a1a"
           }
         }
       },
       "block_order": [
         "play_AyLK9E",
-        "heading_HtVytV"
+        "heading_HtVytV",
+        "subheading_87xmiz",
+        "button_zmeLtz"
       ],
       "name": "Video",
       "settings": {
@@ -139,7 +158,7 @@
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 48
       }
     },
     "featured-collection": {
