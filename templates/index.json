@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/generate-a-high-quality--photorealistic-e-commerce_2.jpg",
+            "image": "shopify://shop_images/a-half-length-shot-of-a-fit-30-year-old-adventurer.jpg",
             "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
             "content_max_width": 580,
             "mobile_text_position": "place-self-center-start text-start",
@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 31,
+            "overlay_opacity": 24,
             "background": "",
             "background_gradient": ""
           }
