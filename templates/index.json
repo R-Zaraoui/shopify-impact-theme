@@ -15,13 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/openart-00499cee3bb74f39b89712c164953f2d_raw.jpg",
+            "image": "shopify://shop_images/image_1.jpg",
             "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
-            "content_max_width": 580,
+            "content_max_width": 600,
             "mobile_text_position": "place-self-center-start text-start",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Crafted in Europe with 100% Organic Cotton",
-            "title": "Organic Polos",
+            "title": "Wild Crest Style",
             "heading_tag": "h1",
             "button_text": "Shop Now – 20% Off Today!",
             "button_link": "shopify://products/light-flake-polo",
@@ -41,7 +41,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "auto",
+        "image_size": "fill",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
