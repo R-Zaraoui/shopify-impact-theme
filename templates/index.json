@@ -17,8 +17,8 @@
           "settings": {
             "image": "shopify://shop_images/image_1.jpg",
             "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
-            "content_max_width": 600,
-            "mobile_text_position": "place-self-center-start text-start",
+            "content_max_width": 540,
+            "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
             "subheading": "Crafted in Europe with 100% Organic Cotton",
             "title": "Wild Crest Style",
