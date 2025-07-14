@@ -227,8 +227,8 @@
             "title": "€ 2,50",
             "subheading": "Every Order Plants a Tree",
             "content": "<p>With every NIV PURE order, €2.50 goes to tree-planting initiatives, nurturing wild landscapes for future adventures. Join us in growing a greener world, step by step.</p>",
-            "button_text": "",
-            "button_url": "",
+            "button_text": "Shop to Plant",
+            "button_url": "shopify://products/wild-base-t-shirt",
             "animate_impact_text": true,
             "animate_impact_text_duration": 3
           }
@@ -250,8 +250,8 @@
         "heading_text_color": "#f5f1e9",
         "heading_gradient": "",
         "text_color": "#f5f1e9",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#ffffff",
+        "button_text_color": "#1a1a1a"
       }
     },
     "faq": {
