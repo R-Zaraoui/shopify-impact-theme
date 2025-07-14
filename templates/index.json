@@ -120,7 +120,7 @@
         "heading_HtVytV": {
           "type": "heading",
           "settings": {
-            "text": "Trail Mark Collection",
+            "text": "Summit Whisper T-Shirt",
             "heading_tag": "h2"
           }
         },
@@ -136,7 +136,7 @@
             "style": "fill",
             "size": "lg",
             "text": "Buy Now",
-            "url": "shopify://collections/trail-mark-collection",
+            "url": "shopify://products/summit-whisper-t-shirt",
             "background": "#ffffff",
             "text_color": "#1a1a1a"
           }
