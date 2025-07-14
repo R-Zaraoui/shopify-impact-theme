@@ -203,21 +203,6 @@
         "heading_gradient": ""
       }
     },
-    "slideshow_7KUAcy": {
-      "type": "slideshow",
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
     "impact_text_ErCceT": {
       "type": "impact-text",
       "blocks": {
@@ -312,7 +297,6 @@
     "text_with_icons_Fxndrk",
     "video_nVh4mt",
     "images_with_text_scrolling_fickJV",
-    "slideshow_7KUAcy",
     "impact_text_ErCceT",
     "faq"
   ]
