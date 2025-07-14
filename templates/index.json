@@ -127,7 +127,7 @@
         "subheading_87xmiz": {
           "type": "subheading",
           "settings": {
-            "text": "100% Organic Cotton for Every Adventure"
+            "text": "Rise Wild with 100% Organic Cotton"
           }
         },
         "button_zmeLtz": {
@@ -135,7 +135,7 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "Buy Now",
+            "text": "Claim Your Wild",
             "url": "shopify://products/summit-whisper-t-shirt",
             "background": "#ffffff",
             "text_color": "#1a1a1a"
@@ -158,7 +158,7 @@
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 48
+        "overlay_opacity": 51
       }
     },
     "images_with_text_scrolling_fickJV": {
