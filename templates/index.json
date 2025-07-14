@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_1.jpg",
-            "mobile_image": "shopify://shop_images/a-male-model-standing-outdoors-in-a-vibrant--amste.jpg",
+            "mobile_image": "shopify://shop_images/openart-def90e3e629140818af216400d53f201_raw.jpg",
             "content_max_width": 540,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
