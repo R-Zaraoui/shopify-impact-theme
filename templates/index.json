@@ -218,77 +218,40 @@
         "background_gradient": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
+    "impact_text_ErCceT": {
+      "type": "impact-text",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
+        "item_7PRpXC": {
+          "type": "item",
           "settings": {
-            "text": "Eco-Friendly T-Shirts for Men"
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Organic Cotton T-Shirts",
-            "heading_tag": "h1"
-          }
-        },
-        "button_dMre6z": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "lg",
-            "text": "Buy Now with Free Shipping > €80",
-            "url": "shopify://products/wild-base-t-shirt",
-            "background": "#ffffff",
-            "text_color": "#000000"
+            "title": "€ 2,50",
+            "subheading": "Every Order Plants a Tree",
+            "content": "<p>With every NIV PURE order, €2.50 goes to tree-planting initiatives, nurturing wild landscapes for future adventures. Join us in growing a greener world, step by step.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 3
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "button_dMre6z"
+        "item_7PRpXC"
       ],
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/studio-quality-4k-lifestyle-image-for-the-homepage_1.jpg",
-        "mobile_image": "shopify://shop_images/a-highly-detailed-professional-lifestyle-photo-of-_1.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 37
-      }
-    },
-    "featured_collection_DFViUW": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "t-shirts",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 3,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Our T-Shirts",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.7,
+        "background": "#4a5d4d",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
+        "heading_text_color": "#f5f1e9",
         "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": "#f5f1e9",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "faq": {
@@ -350,8 +313,7 @@
     "video_nVh4mt",
     "images_with_text_scrolling_fickJV",
     "slideshow_7KUAcy",
-    "image-with-text-overlay",
-    "featured_collection_DFViUW",
+    "impact_text_ErCceT",
     "faq"
   ]
 }
