@@ -54,10 +54,10 @@
             "low_inventory_threshold": 13
           }
         },
-        "hoppy_trust_badges_trust_badges_block_BLzHxN": {
+        "hoppy_trust_badges_trust_badges_block_fF4FDR": {
           "type": "shopify://apps/hoppy-trust-badges/blocks/trust_badges_block/6e9703d9-56af-47d9-80bb-0abc8eb8c38b",
           "settings": {
-            "badge-id": "f7897f57-e50e-4b81-897c-84f4d016d174"
+            "badge-id": "139d56a9-6cb7-42d4-b81d-ae02cd0cd66d"
           }
         },
         "buy_buttons_iYTWkY": {
@@ -99,7 +99,7 @@
         "variant_picker",
         "quantity_selector",
         "inventory_76VeWc",
-        "hoppy_trust_badges_trust_badges_block_BLzHxN",
+        "hoppy_trust_badges_trust_badges_block_fF4FDR",
         "buy_buttons_iYTWkY",
         "hoppy_trust_badges_trust_badges_block_wAGnce",
         "description_HXwhMp",
