@@ -33,6 +33,7 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   font-size: inherit;
   font-weight: inherit;
+  font-display: swap;
 }
 
 a {
@@ -48,6 +49,7 @@ b, strong {
 code, kbd, samp, pre {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
   font-size: 1em;
+  font-display: swap;
 }
 
 table {
@@ -61,6 +63,7 @@ button, input, optgroup, select, textarea {
   font-size: 100%;
   font-weight: inherit;
   font-style: inherit;
+  font-display: swap;
   line-height: inherit;
   text-transform: inherit;
   color: inherit;
