@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image_1.jpg",
-            "mobile_image": "shopify://shop_images/openart-def90e3e629140818af216400d53f201_raw.jpg",
+            "mobile_image": "shopify://shop_images/openart-def90e3e629140818af216400d53f201_raw_1.jpg",
             "content_max_width": 540,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -293,15 +293,6 @@
     },
     "17526085519fb93bfb": {
       "type": "apps",
-      "blocks": {
-        "google_youtube_automated_discounts_price_TRRA7T": {
-          "type": "shopify://apps/google-youtube/blocks/automated_discounts_price/14ec7bd0-ac77-49a9-9417-90752398bdff",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "google_youtube_automated_discounts_price_TRRA7T"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
