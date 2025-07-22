@@ -18,6 +18,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_hW8gx8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Twilight Flake Polo: Master the Urban Wild. Crafted for the Modern Adventurer.</p>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -93,6 +99,7 @@
       },
       "block_order": [
         "title",
+        "text_hW8gx8",
         "price",
         "rating",
         "separator",
