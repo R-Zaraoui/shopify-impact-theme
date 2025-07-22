@@ -30,11 +30,9 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
+        "judge_me_reviews_preview_badge_rK67Ur": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         },
         "separator": {
           "type": "separator",
@@ -101,7 +99,7 @@
         "title",
         "text_hW8gx8",
         "price",
-        "rating",
+        "judge_me_reviews_preview_badge_rK67Ur",
         "separator",
         "variant_picker",
         "quantity_selector",
