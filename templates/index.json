@@ -161,46 +161,38 @@
         "overlay_opacity": 51
       }
     },
-    "images_with_text_scrolling_fickJV": {
-      "type": "images-with-text-scrolling",
+    "timeline_Ypqg4e": {
+      "type": "timeline",
       "blocks": {
-        "item_yhANhi": {
-          "type": "item",
+        "slide_jqcrdH": {
+          "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/openart-image_4lx2Psi6_1753280706512_raw.jpg",
-            "icon": "none",
-            "icon_width": 24,
-            "title": "The Call of the Wild Is Still There. But Are You Listening?",
-            "content": "<p>The city hums, life moves fast, and that 'what if' starts to creep in. What if the path you dream of taking is just out of reach? What if that adventurous spirit is getting lost in the daily grind? That quiet fog of doubt can hold you back.</p>"
+            "navigation_label": "Before",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "item_ahcA7L": {
-          "type": "item",
+        "slide_e9PNhF": {
+          "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/openart-image_W3uQ3JJq_1753280739677_raw.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Reclaim Your Path. It Starts with What You Wear.",
-            "content": "<p>This is not just organic cotton. This is your uniform for freedom. The second you put on NIV PURE, that 'breath of fresh mountain air' becomes a surge of confidence. Its lightweight comfort frees you to move, to explore, and to finally take that path you’ve been dreaming of.</p>"
+            "navigation_label": "1960",
+            "subheading": "Subheading",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "item_yhANhi",
-        "item_ahcA7L"
+        "slide_jqcrdH",
+        "slide_e9PNhF"
       ],
-      "name": "Images and text scrolling",
+      "name": "Timeline",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#d3c9c0",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#4a4a4a",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "impact_text_ErCceT": {
@@ -312,7 +304,7 @@
     "slideshow",
     "text_with_icons_Fxndrk",
     "video_nVh4mt",
-    "images_with_text_scrolling_fickJV",
+    "timeline_Ypqg4e",
     "impact_text_ErCceT",
     "faq",
     "17526085519fb93bfb"
