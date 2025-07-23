@@ -18,6 +18,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_KJT9Fz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Master the Urban Wild. Crafted for the Modern Adventurer.</p>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -91,6 +97,7 @@
       },
       "block_order": [
         "title",
+        "text_KJT9Fz",
         "price",
         "judge_me_reviews_preview_badge_q7weLk",
         "separator",
