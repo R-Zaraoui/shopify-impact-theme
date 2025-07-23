@@ -203,10 +203,11 @@
         "item_ttQ386": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_4.jpg",
             "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Hear from the NIV PURE Community",
-            "content": "<p>Don't just take our word for it—see what others are saying about our quality, comfort, and mission</p>",
+            "subheading": "Emil N.",
+            "title": "Extremely Comfortable!",
+            "content": "<p>Extremely comfortable and a great fit. I've worn it multiple times and it's holding up perfectly.</p>",
             "button_url": "shopify://products/frosted-peak-polo",
             "button_text": ""
           }
@@ -214,10 +215,11 @@
         "item_xn9Xyz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/openart-image_kQXspiLy_1752417537639_raw.jpg",
             "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "Sven L.",
+            "title": "Simply the Best",
+            "content": "<p>Simply the best t-shirt I own. Soft durable and ethically made. What's not to love?<br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -257,7 +259,7 @@
         "judge_me_reviews_featured_carousel_PgPzBC": {
           "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "maxwidth": 1080
+            "maxwidth": 2000
           }
         }
       },
