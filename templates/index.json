@@ -197,60 +197,73 @@
         "button_text_color": "#1a1a1a"
       }
     },
-    "faq": {
-      "type": "faq",
+    "multiple_images_with_text_LfMnUr": {
+      "type": "multiple-images-with-text",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_ttQ386": {
           "type": "item",
           "settings": {
-            "title": "Where do you ship?",
-            "content": "<p>Currently, we ship to the Netherlands, Belgium, Luxembourg, and Germany with fast, reliable delivery! Stay tuned as we expand to more regions soon. 🌍 </p>"
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Hear from the NIV PURE Community",
+            "content": "<p>Don't just take our word for it—see what others are saying about our quality, comfort, and mission</p>",
+            "button_url": "shopify://products/frosted-peak-polo",
+            "button_text": ""
           }
         },
-        "166442457738b23caf-1": {
+        "item_xn9Xyz": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>Estimated delivery duration is mentioned in our <a href=\"https://nivstore.eu/policies/shipping-policy\" title=\"Shipping Policy\">Shipping Policy</a></p>"
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
           }
         },
-        "166442457738b23caf-2": {
+        "item_hNHgby": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_ttQ386",
+        "item_xn9Xyz",
+        "item_hNHgby"
       ],
+      "name": "Multiple images with text",
       "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>At NIV PURE, we aim to respond to your inquiries within 48 hours. Please reach us by emailing <strong>niv-pure@nivstore.nl</strong> or via our contact form. We’re here to help!</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "button_text_color": ""
       }
     },
     "17526085519fb93bfb": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_PgPzBC": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_PgPzBC"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -271,7 +284,7 @@
     "text_with_icons_Fxndrk",
     "video_nVh4mt",
     "impact_text_ErCceT",
-    "faq",
+    "multiple_images_with_text_LfMnUr",
     "17526085519fb93bfb"
   ]
 }
