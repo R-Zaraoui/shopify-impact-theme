@@ -161,40 +161,6 @@
         "overlay_opacity": 51
       }
     },
-    "timeline_Ypqg4e": {
-      "type": "timeline",
-      "blocks": {
-        "slide_jqcrdH": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "Before",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "slide_e9PNhF": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "1960",
-            "subheading": "Subheading",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_jqcrdH",
-        "slide_e9PNhF"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "impact_text_ErCceT": {
       "type": "impact-text",
       "blocks": {
@@ -304,7 +270,6 @@
     "slideshow",
     "text_with_icons_Fxndrk",
     "video_nVh4mt",
-    "timeline_Ypqg4e",
     "impact_text_ErCceT",
     "faq",
     "17526085519fb93bfb"
