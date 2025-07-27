@@ -16,15 +16,108 @@
         "content_width": "80ch"
       }
     },
+    "faq_rk8wik": {
+      "type": "faq",
+      "blocks": {
+        "item_pW7wrU": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_TTJXeR": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_ADjYw9": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        },
+        "item_EAnwMR": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_74yATN": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_3rBtPB": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_q8BXxG": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_XGFFEi": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_pW7wrU",
+        "item_TTJXeR",
+        "item_ADjYw9",
+        "item_EAnwMR",
+        "item_74yATN",
+        "item_3rBtPB",
+        "item_q8BXxG",
+        "item_XGFFEi"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Quick Answers to Common Questions",
+        "content": "<p>Before you send us a message, you might find what you're looking for in our comprehensive FAQ section. We've answered questions about shipping, returns, product care, and more.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "contact": {
       "type": "contact",
       "settings": {
         "full_width": true,
         "subheading": "We're here to support every step of your journey. Whether you have a question about our organic apparel, an order, or just want to share your latest outdoor moment, we'd love to hear from you.",
         "title": "Let's Connect – Your Adventure Starts Here.",
-        "content": "<p>Our team strives to respond to all inquiries within <strong>24-48 hours</strong> during business days (Monday - Friday)<br/>Average response time: 24 hours</p>",
+        "content": "<p>Our team strives to respond to all inquiries within <strong>24-48 hours</strong> during business days (Monday - Friday)<br/>Average response time: <strong>24 hours</strong></p>",
         "text_position": "start",
-        "contact_form_size": "large",
+        "contact_form_size": "small",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -39,6 +132,7 @@
   },
   "order": [
     "main",
+    "faq_rk8wik",
     "contact"
   ]
 }
