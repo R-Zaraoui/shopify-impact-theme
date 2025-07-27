@@ -18,7 +18,7 @@
         "show_collection_title": true,
         "show_collection_description": true,
         "show_collection_image": true,
-        "collection_title_size": "h0",
+        "collection_title_size": "h1",
         "image_size": "auto",
         "mobile_image": "shopify://shop_images/openart-a6cd8d8e1ea74acba248673c5e08d610_raw-min.jpg",
         "mobile_text_position": "place-self-center text-center",
