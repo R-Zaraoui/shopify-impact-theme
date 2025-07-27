@@ -24,7 +24,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "featured_product": "",
-        "featured_product_heading": "Featured product",
+        "featured_product_heading": "Featured",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 37
