@@ -21,13 +21,14 @@
         "collection_title_size": "h0",
         "image_size": "auto",
         "image": "shopify://shop_images/openart-a-wide-cinematic-photo-of-a-man-in-his-late-20s-to-early-30s-standing-casu_1.jpg",
+        "mobile_image": "shopify://shop_images/openart-a-medium-close-up-photo-of-a-man-in-his-late-20s-to-early-30s-standing-cas.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "featured_product": "",
         "featured_product_heading": "Featured product",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 37
       }
     },
     "main": {
