@@ -20,7 +20,6 @@
         "show_collection_image": true,
         "collection_title_size": "h0",
         "image_size": "auto",
-        "image": "shopify://shop_images/openart-3283150e-45c3-4a9d-b73f-7d70dc3b4018-min.jpg",
         "mobile_image": "shopify://shop_images/openart-debabfb4-de5f-4d6d-bbef-c32f40a5830c-min.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
