@@ -64,6 +64,12 @@
             "badge-id": "127203f1-09eb-462a-9b11-3fece6835311"
           }
         },
+        "countdown_timer_essential_app_block_gjrD93": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmdnbs6xu00brw11ro26wljhh"
+          }
+        },
         "buy_buttons_k4tGaj": {
           "type": "buy_buttons",
           "settings": {
@@ -105,6 +111,7 @@
         "quantity_selector",
         "inventory_76VeWc",
         "hoppy_trust_badges_trust_badges_block_g499rW",
+        "countdown_timer_essential_app_block_gjrD93",
         "buy_buttons_k4tGaj",
         "hoppy_trust_badges_trust_badges_block_3nWxA4",
         "description_HXwhMp",
