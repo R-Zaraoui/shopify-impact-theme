@@ -22,56 +22,56 @@
         "item_pW7wrU": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "What are your shipping options and delivery times?",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_TTJXeR": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
+            "title": "How do I initiate a return?",
             "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_ADjYw9": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
+            "title": "How should I care for my NIV PURE organic cotton apparel?",
             "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         },
         "item_EAnwMR": {
           "type": "item",
           "settings": {
-            "title": "Question",
+            "title": "What makes NIV PURE apparel sustainable and organic?",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_74yATN": {
           "type": "item",
           "settings": {
-            "title": "Question",
+            "title": "How do I find the right size for my NIV PURE clothing?",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_3rBtPB": {
           "type": "item",
           "settings": {
-            "title": "Question",
+            "title": "How can I track the status of my order?",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_q8BXxG": {
           "type": "item",
           "settings": {
-            "title": "Question",
+            "title": "How does NIV PURE contribute to tree-planting efforts?",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_XGFFEi": {
           "type": "item",
           "settings": {
-            "title": "Question",
+            "title": "Do you restock popular items, and how can I be notified?",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
