@@ -23,14 +23,14 @@
           "type": "item",
           "settings": {
             "title": "What are your shipping options and delivery times?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>We currently ship to the <strong>Benelux (Belgium, Netherlands, Luxembourg) and Germany</strong>. Standard delivery times are typically between <strong>3 to 5 business days</strong>. We offer <strong>free shipping on all orders above €80</strong>.</p>"
           }
         },
         "item_TTJXeR": {
           "type": "item",
           "settings": {
             "title": "How do I initiate a return?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "content": "<p>You can find our full return policy <a href=\"https://www.google.com/search?q=https://www.nivstore.eu/pages/return-policy\" target=\"_blank\">here</a>. To initiate a return, or if you encounter any problems with the product itself, please send an email to <strong>niv-pure@nivstore.eu</strong>. If there are issues with the product, please include images in your email.</p>"
           }
         },
         "item_ADjYw9": {
