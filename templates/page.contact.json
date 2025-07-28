@@ -72,7 +72,7 @@
           "type": "item",
           "settings": {
             "title": "Do you restock popular items, and how can I be notified?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "content": "<p>We regularly restock our popular items. For updates on restocks, new arrivals, and exclusive offers, we recommend signing up for our newsletter.</p>"
           }
         }
       },
