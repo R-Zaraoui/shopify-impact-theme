@@ -113,7 +113,7 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "We're here to support every step of your journey. Whether you have a question about our organic apparel, an order, or just want to share your latest outdoor moment, we'd love to hear from you.",
+        "subheading": "",
         "title": "Let's Connect – Your Adventure Starts Here.",
         "content": "<p>Our team strives to respond to all inquiries within <strong>24-48 hours</strong> during business days (Monday - Friday)<br/>Average response time: <strong>24 hours</strong></p>",
         "text_position": "start",
